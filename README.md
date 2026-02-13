@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Layout_viagens.pdf" alt="Preview do Projeto AgenciaViagem" width="100%">
+  <img src="Layout_viagens.png" alt="Preview do Projeto AgenciaViagem" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
