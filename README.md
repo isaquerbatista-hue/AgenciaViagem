@@ -7,7 +7,7 @@
 
 ## 💻 Sobre o Projeto
 
-A **AgenciaViagem** é uma Landing Page moderna e responsiva desenvolvida com foco em **SEO (Search Engine Optimization)** e boas práticas de Front-end. O projeto simula a página de uma loja de viagens fictícia, apresentando produtos, receitas e novidades.
+A **AgenciaViagem** é uma Landing Page moderna e responsiva desenvolvida com foco em **SEO (Search Engine Optimization)** e boas práticas de Front-end. O projeto simula a página de uma loja de viagens fictícia, apresentando viagens e novidades.
 
 Este projeto foi desenvolvido como parte do currículo do curso **Técnico em Desenvolvimento de Sistemas** da Escola **SENAI A. Jacob Lafer**.
 
